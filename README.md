@@ -1,3 +1,5 @@
+Read the book at https://syncroness-inc.github.io/rust-at-syncroness/
+
 This book is meant to serve as an entry point to the language. We will...
 - Provide a recommended path for learning Rust. 
 - Provide examples for how to use Rust for Syncroness's use cases. 
