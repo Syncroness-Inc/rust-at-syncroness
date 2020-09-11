@@ -8,7 +8,7 @@ It is important to have a Rust environment where you can experiment with Rust co
 - Use the [Rust playground](https://play.rust-lang.org/). This is a great option for doing small scale examples but is not meant for actual development.
 
 ## Reading the book
-The common starting point for Rust developers (a.k.a. Rustaceans) is [The Rust Book](https://doc.rust-lang.org/stable/book/ch01-01-installation.html). The book is a great place to learn core concepts and become proficient with the language.
+The common starting point for Rust developers is [The Rust Book](https://doc.rust-lang.org/stable/book/ch01-01-installation.html). The book is a great place to learn core concepts and become proficient with the language.
 
 ## Rustlings Exercises
 In addition to reading the book, it is suggested that you do all of the [rustlings exercises](https://github.com/rust-lang/rustlings). This is a great thing to do while reading the book. It will get you used to seeing compiler error messages and hopefully make chapters within the book more memorable.
