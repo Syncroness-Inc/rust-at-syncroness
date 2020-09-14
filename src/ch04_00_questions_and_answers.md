@@ -23,7 +23,7 @@ Interopting directly with C++ and Rust are not easily achievable. In general, fo
 
 In general, Interopting between Rust and C can be a great way to pull a library off the shelf that you otherwise could not, but you should avoid interopting when you can because it adds complexity and negates some of Rust's safety guarantees.
 
-Additional Resources: [Embedded Rust Book - Interoperability](https://docs.rust-embedded.org/book/interoperability/)
+Additional Resources: [Embedded Rust Book - Interoperability](https://docs.rust-embedded.org/book/interoperability/), [The Rust FFI Omnibus](http://jakegoulding.com/rust-ffi-omnibus/string_arguments/)
 
 ## Who owns Rust?
 No one. Rust is 100% open source under the [APACHE](https://choosealicense.com/licenses/apache-2.0/) and [MIT](https://choosealicense.com/licenses/mit/) licenses.
