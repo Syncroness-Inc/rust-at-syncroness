@@ -7,3 +7,11 @@ title = "Rust at Syncroness"
 
 [build]
 create-missing = false
+
+[output.html]
+
+[output.linkcheck]
+
+traverse-parent-directories = false
+
+exclude = ["http://bitbucket.syncroness.com:7990/projects/SYN/repos/rust_exercise_reversebits/browse"]
