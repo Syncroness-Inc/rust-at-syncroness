@@ -15,6 +15,7 @@ before_script:
 
 script:
   - mdbook build && mdbook test
+  - cp -r book/html .
 
 deploy:
   provider: pages
