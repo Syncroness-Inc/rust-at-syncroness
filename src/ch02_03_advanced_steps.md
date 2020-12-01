@@ -14,5 +14,6 @@ If you are having trouble finding projects you would like to contribute to, cons
 - [Servo](https://servo.org/): <https://github.com/servo/servo>
 - iced: <https://github.com/hecrj/iced>
 - [probe.rs](https://probe.rs/): <https://github.com/probe-rs/probe-rs>
+- [Seed](https://seed-rs.org/): <https://github.com/seed-rs/seed>
 - tarpaulin: <https://github.com/xd009642/tarpaulin>
 - [tauri](https://tauri.studio/en/) - <https://github.com/tauri-apps/tauri>
